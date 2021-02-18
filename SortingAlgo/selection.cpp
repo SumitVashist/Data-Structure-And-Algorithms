@@ -53,6 +53,7 @@ int main()
 
 	selection_sort(a,n);
 
+	cout<<endl<<"Sorted Elements \n";
 	for(int i=0;i<n;i++)
 	{
 		cout<<a[i]<<" ";
